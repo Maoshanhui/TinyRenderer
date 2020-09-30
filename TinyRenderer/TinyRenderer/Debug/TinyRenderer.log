@@ -1,0 +1,29 @@
+﻿  geometry.cpp
+E:\TinyRenderer\TinyRenderer\geometry.cpp(7,36): error C2976: “Vec3”: 模板 参数太少
+E:\TinyRenderer\TinyRenderer\geometry.h(25): message : 参见“Vec3”的声明
+E:\TinyRenderer\TinyRenderer\geometry.cpp(7,65): error C2988: 不可识别的模板声明/定义
+E:\TinyRenderer\TinyRenderer\geometry.cpp(7,65): error C2059: 语法错误:“const”
+E:\TinyRenderer\TinyRenderer\geometry.cpp(7,73): error C2065: “v”: 未声明的标识符
+E:\TinyRenderer\TinyRenderer\geometry.cpp(7,80): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\TinyRenderer\TinyRenderer\geometry.cpp(7,89): error C2065: “v”: 未声明的标识符
+E:\TinyRenderer\TinyRenderer\geometry.cpp(7,96): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\TinyRenderer\TinyRenderer\geometry.cpp(7,105): error C2065: “v”: 未声明的标识符
+E:\TinyRenderer\TinyRenderer\geometry.cpp(7,112): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\TinyRenderer\TinyRenderer\geometry.cpp(7,114): error C2448: “z”: 函数样式初始值设定项类似函数定义
+E:\TinyRenderer\TinyRenderer\geometry.cpp(10,38): error C2976: “Vec3”: 模板 参数太少
+E:\TinyRenderer\TinyRenderer\geometry.h(25): message : 参见“Vec3”的声明
+E:\TinyRenderer\TinyRenderer\geometry.cpp(10,65): error C2988: 不可识别的模板声明/定义
+E:\TinyRenderer\TinyRenderer\geometry.cpp(10,65): error C2059: 语法错误:“const”
+E:\TinyRenderer\TinyRenderer\geometry.cpp(10,69): error C2065: “v”: 未声明的标识符
+E:\TinyRenderer\TinyRenderer\geometry.cpp(10,72): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\TinyRenderer\TinyRenderer\geometry.cpp(10,67): error C2374: “x”: 重定义；多次初始化
+E:\TinyRenderer\TinyRenderer\geometry.cpp(7): message : 参见“x”的声明
+E:\TinyRenderer\TinyRenderer\geometry.cpp(10,77): error C2065: “v”: 未声明的标识符
+E:\TinyRenderer\TinyRenderer\geometry.cpp(10,80): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\TinyRenderer\TinyRenderer\geometry.cpp(10,75): error C2374: “y”: 重定义；多次初始化
+E:\TinyRenderer\TinyRenderer\geometry.cpp(7): message : 参见“y”的声明
+E:\TinyRenderer\TinyRenderer\geometry.cpp(10,85): error C2065: “v”: 未声明的标识符
+E:\TinyRenderer\TinyRenderer\geometry.cpp(10,88): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\TinyRenderer\TinyRenderer\geometry.cpp(10,83): error C2374: “z”: 重定义；多次初始化
+E:\TinyRenderer\TinyRenderer\geometry.cpp(7): message : 参见“z”的声明
+E:\TinyRenderer\TinyRenderer\geometry.cpp(10,90): error C2448: “z”: 函数样式初始值设定项类似函数定义
